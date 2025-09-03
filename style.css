@@ -44,3 +44,7 @@ body {
 .card .btn:hover {
     background-color: #005fa3;
 }
+
+a {
+    text-decoration: none;
+}
